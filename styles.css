@@ -1,0 +1,16 @@
+h1{
+    font-size: 35px;
+    font-family: sans-serif;
+    font-stretch: semi-condensed;
+    text-align: center;
+    color: black;
+    background-color: #09f333;
+    font-weight: 650;
+}
+h2{
+    font-size: 20px;
+    text-align: center;
+}
+#recipes{
+    text-align: center;
+}
